@@ -1,0 +1,12 @@
+#my-image {
+    width: 500px; 
+    height: auto; 
+    border: 2px solid #faf6f6; 
+    margin: 10px; 
+}
+
+/* Using class selector */
+.image-container {
+    text-align: center; 
+}
+
